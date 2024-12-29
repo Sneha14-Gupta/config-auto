@@ -1,0 +1,72 @@
+{
+  "red": {
+    "wheels": {
+      "rims": "/assets/wheels-options/red/red-rims.jpg",
+      "carbon": "/assets/wheels-options/red/red-carbon.jpg",
+      "velador": "/assets/wheels-options/red/red-velador.jpg"
+    }
+  },
+  "violet": {
+    "wheels": {
+      "rims": "/assets/wheels-options/violet/violet-rims.jpg",
+      "carbon": "/assets/wheels-options/violet/violet-carbon.jpg",
+      "velador": "/assets/wheels-options/violet/violet-velador.jpg"
+    }
+  },
+  "lightblue": {
+    "wheels": {
+      "rims": "/assets/wheels-options/lightblue/light-blue-rims.jpg",
+      "carbon": "/assets/wheels-options/lightblue/light-blue-carbon.jpg",
+      "velador": "/assets/wheels-options/lightblue/light-blue-velador.jpg"
+    }
+  },
+  "green": {
+    "wheels": {
+      "rims": "/assets/wheels-options/green/green-rims.jpg",
+      "carbon": "/assets/wheels-options/green/green-carbon.jpg",
+      "velador": "/assets/wheels-options/green/green-velador.jpg"
+    }
+  },
+  "orange": {
+    "wheels": {
+      "rims": "/assets/wheels-options/orange/orange-rims.jpg",
+      "carbon": "/assets/wheels-options/orange/orange-carbon.jpg",
+      "velador": "/assets/wheels-options/orange/orange-velador.jpg"
+    }
+  },
+  "grey": {
+    "wheels": {
+      "rims": "/assets/wheels-options/grey/grey-rims.jpg",
+      "carbon": "/assets/wheels-options/grey/grey-carbon.jpg",
+      "velador": "/assets/wheels-options/grey/grey-velador.jpg"
+    }
+  },
+  "bronze": {
+    "wheels": {
+      "rims": "/assets/wheels-options/bronze/bronze-rims.jpg",
+      "carbon": "/assets/wheels-options/bronze/bronze-carbon.jpg",
+      "velador": "/assets/wheels-options/bronze/bronze-velador.jpg"
+    }
+  },
+  "marron": {
+    "wheels": {
+      "rims": "/assets/wheels-options/marron/marron-rims.jpg",
+      "carbon": "/assets/wheels-options/marron/marron-carbon.jpg",
+      "velador": "/assets/wheels-options/marron/marron-velador.jpg"
+    }
+  },
+  "white": {
+    "wheels": {
+      "rims": "/assets/wheels-options/white/white-rims.jpg",
+      "carbon": "/assets/wheels-options/white/white-carbon.jpg",
+      "velador": "/assets/wheels-options/white/white-velador.jpg"
+    }
+  },
+  "yellow": {
+    "wheels": {
+      "rims": "/assets/wheels-options/yellow/yellow-rims.jpg",
+      "carbon": "/assets/wheels-options/yellow/yellow-carbon.jpg",
+      "velador": "/assets/wheels-options/yellow/yellow-velador.jpg"
+    }
+  }
+}
