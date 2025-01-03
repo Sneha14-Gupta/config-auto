@@ -3,7 +3,7 @@ import configs from "@/app/configs.json";
 
 function Main({ color = "red", wheel = "carbon", interiortheme = "sabbia" }) {
   return (
-    <div className="ml-6 ">
+    <div className="md:ml-6">
       <img
         src={`${configs[color].wheels[wheel]}`}
         alt={`${color}`}

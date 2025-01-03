@@ -68,7 +68,7 @@ function Persona({
         and customize their ideal vehicle.
       </p>
       {/* Exterior Colors Section */}
-      <div className="mb-4 rounded-lg p-4 bg-gray-50 shadow-md ">
+      <div className="rounded-lg p-4 bg-gray-50 shadow-md ">
         <h4 className="font-semibold text-lg border-4 border-inset border-black rounded-lg text-center mb-3">
           Exterior Palette
         </h4>
@@ -109,7 +109,6 @@ function Persona({
           ))}
         </div>
       </div>
-
       {/* Interior Options Section */}
       <div className="rounded-lg p-4 bg-gray-50 shadow-md">
         <h4 className="font-semibold text-lg text-center mb-3 border-4 border-inset border-black rounded-lg">
