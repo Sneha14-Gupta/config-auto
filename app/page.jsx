@@ -7,8 +7,8 @@ import Persona from "@/components/Persona";
 function Page() {
   const [activeoption, setactiveOption] = useState({
     color: "red",
-    wheel: "carbon",
-    interiortheme: "sabbia",
+    wheel: "rims",
+    interiortheme: "blue",
   });
   function changeOptions(options, values) {
     const newOptions = {
