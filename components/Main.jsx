@@ -1,7 +1,7 @@
 import Image from "next/image";
 import configs from "@/app/configs.json";
 
-function Main({ color = "red", wheel = "carbon", interiortheme = "sabbia" }) {
+function Main({ color = "red", wheel = "rims", interiortheme = "blue" }) {
   return (
     <div className="md:ml-6">
       <img
