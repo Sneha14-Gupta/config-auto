@@ -35,12 +35,4 @@
 - Pick from 6 **interior themes**
 
 
-## 📦 Installation
-
-Clone the repository and install dependencies:
-
-```bash
-git clone https://github.com/yourusername/config-car.git
-cd config-car
-npm install
 
